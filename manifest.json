@@ -1,0 +1,21 @@
+{
+  "lang": "pt-br",
+  "name": "Distribuição de água",
+  "short_name": "Água",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#15d6be",
+  "description": "Um aplicativo simples para lembrar os dias da distribuição de água na comunidade.",
+  "icons": [
+    {
+      "src": "./assets/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web"
+    }
+  ]
+}
